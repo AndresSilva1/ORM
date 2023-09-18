@@ -15,7 +15,7 @@ Tag.init(
     tag_name:
       { type: DataTypes.STRING },
   },
-    // define columns
+  // define columns
   {
     sequelize,
     timestamps: false,
